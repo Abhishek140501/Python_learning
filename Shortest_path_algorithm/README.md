@@ -27,8 +27,7 @@ shortest_path(my_graph, 'A')       # Show all shortest paths from 'A'
 shortest_path(my_graph, 'A', 'F')  # Show shortest path from 'A' to 'F'
 
 File Structure
-markdown
-Copy code
+
 Python_learning/
 └── shortest_path_algorithm/
     ├── shortest_path.py
